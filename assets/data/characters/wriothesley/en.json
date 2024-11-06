@@ -16,18 +16,96 @@
       "name": "Forceful Fists of Frost",
       "unlock": "Normal Attack",
       "description": "Normal Attack\nCoalescing frost about his fist, Wriothesley will unleash powerful Repelling Fists, performing up to 5 rapid attacks that deal Cryo DMG.\nApart from this, Normal Attack combo count will not reset for a short time after using Icefang Rush or sprinting.\nCharged Attack\nConsumes a fixed amount of Stamina to leap and unleash a Vaulting Fist, dealing AoE Cryo DMG.\nPlunging Attack\nPlunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE Cryo DMG upon impact.",
+      "upgrades": [
+        {
+          "name": "1-Hit DMG",
+          "value": "53.36%"
+        },
+        {
+          "name": "2-Hit DMG",
+          "value": "51.8%"
+        },
+        {
+          "name": "3-Hit DMG",
+          "value": "67.22%"
+        },
+        {
+          "name": "4-Hit DMG",
+          "value": "37.9% + 37.9%"
+        },
+        {
+          "name": "5-Hit DMG",
+          "value": "90.74%"
+        },
+        {
+          "name": "Charged Attack DMG",
+          "value": "152.96%"
+        },
+        {
+          "name": "Charged Attack Stamina Cost",
+          "value": "50"
+        },
+        {
+          "name": "Plunge DMG",
+          "value": "56.83%"
+        },
+        {
+          "name": "Low / High Plunge DMG",
+          "value": "113.63% / 141.93%"
+        }
+      ],
       "type": "NORMAL_ATTACK"
     },
     {
       "name": "Icefang Rush",
       "unlock": "Elemental Skill",
       "description": "Adjusting his breathing, rhythm, and pace, Wriothesley sprints forward a short distance, entering the Chilling Penalty state and unleashing more powerful attacks than before.\nChilling Penalty\nIncreases Wriothesley's interruption resistance\nWhen his HP is above 50%, it will enhance the Repelling Fists of Normal Attack: Forceful Fists of Frost and increase its DMG. When such an attack hits, it will consume a fixed amount of Wriothesley's HP. HP can be lost this way once every 0.1s.\nThis effect will be canceled should Wriothesley leave the field.\n\"Past convictions are past. It is our future choices that we must grasp.\"\n\"Defy your fate, or else this glutton be, to pay your fate's due, by the crime and thee.\"",
+      "upgrades": [
+        {
+          "name": "Enhanced Repelling Fist DMG",
+          "value": "143.17% Normal Attack DMG"
+        },
+        {
+          "name": "HP Cost",
+          "value": "4.5% Max HP"
+        },
+        {
+          "name": "Duration",
+          "value": "10s"
+        },
+        {
+          "name": "CD",
+          "value": "16s"
+        }
+      ],
       "type": "ELEMENTAL_SKILL"
     },
     {
       "name": "Darkgold Wolfbite",
       "unlock": "Elemental Burst",
       "description": "Activating his boxing gloves, Wriothesley strikes out with an icy straight, then uses Icicle Impact to cause multiple instances of AoE Cryo DMG in a frontal area.\nArkhe: Ousia\nAfter Icicle Impact ends, a Surging Blade will descend upon the opponent's position, dealing Ousia-aligned Cryo DMG.\nThere are some things that even the Duke of the Fortress of Meropide can do little about — for example, complicated paperwork, the trivialities of a supervisor, or even... little kids pasting a whole host of cute but difficult-to-remove stickers on his boxing gloves.",
+      "upgrades": [
+        {
+          "name": "Skill DMG",
+          "value": "127.2% x 5"
+        },
+        {
+          "name": "Surging Blade DMG",
+          "value": "42.4%"
+        },
+        {
+          "name": "CD",
+          "value": "15s"
+        },
+        {
+          "name": "Surging Blade CD",
+          "value": "10s"
+        },
+        {
+          "name": "Energy Cost",
+          "value": "60"
+        }
+      ],
       "type": "ELEMENTAL_BURST"
     }
   ],
