@@ -1,0 +1,31 @@
+{
+  "sliver": {
+    "id": "brilliant-diamond-sliver",
+    "name": "Brilliant Diamond Sliver",
+    "sources": ["Adventure Rank 15"],
+    "rarity": 2
+  },
+  "fragment": {
+    "id": "brilliant-diamond-fragment",
+    "name": "Brilliant Diamond Fragment",
+    "sources": [
+      "Adventure Rank 25",
+      "Adventure Rank 26",
+      "Adventure Rank 28",
+      "Adventure Rank 30"
+    ],
+    "rarity": 3
+  },
+  "chunk": {
+    "id": "brilliant-diamond-chunk",
+    "name": "Brilliant Diamond Chunk",
+    "sources": ["Adventure Rank 35", "Adventure Rank 38", "Adventure Rank 40"],
+    "rarity": 4
+  },
+  "gemstone": {
+    "id": "brilliant-diamond-gemstone",
+    "name": "Brilliant Diamond Gemstone",
+    "sources": ["Adventure Rank 41", "Adventure Rank 42", "Adventure Rank 45"],
+    "rarity": 5
+  }
+}

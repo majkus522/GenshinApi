@@ -1,0 +1,47 @@
+{
+  "sliver": {
+    "id": "nagadus-emerald-sliver",
+    "name": "Nagadus Emerald Sliver",
+    "sources": [
+      "dendro-hypostasis",
+      "jadeplume-terrorshroom",
+      "memories-they-too-were-once-flawless",
+      "kongamato",
+      "Souvenir Shop"
+    ],
+    "rarity": 2
+  },
+  "fragment": {
+    "id": "nagadus-emerald-fragment",
+    "name": "Nagadus Emerald Fragment",
+    "sources": [
+      "dendro-hypostasis",
+      "jadeplume-terrorshroom",
+      "memories-they-too-were-once-flawless",
+      "kongamato"
+    ],
+    "rarity": 3
+  },
+  "chunk": {
+    "id": "nagadus-emerald-chunk",
+    "name": "Nagadus Emerald Chunk",
+    "sources": [
+      "dendro-hypostasis",
+      "jadeplume-terrorshroom",
+      "memories-they-too-were-once-flawless",
+      "kongamato"
+    ],
+    "rarity": 4
+  },
+  "gemstone": {
+    "id": "nagadus-emerald-gemstone",
+    "name": "Nagadus Emerald Gemstone",
+    "sources": [
+      "dendro-hypostasis",
+      "jadeplume-terrorshroom",
+      "memories-they-too-were-once-flawless",
+      "kongamato"
+    ],
+    "rarity": 5
+  }
+}

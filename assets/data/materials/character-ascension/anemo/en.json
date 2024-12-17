@@ -1,0 +1,63 @@
+{
+  "sliver": {
+    "id": "vayuda-turquoise-sliver",
+    "name": "Vayuda Turquoise Sliver",
+    "sources": [
+      "anemo-hypostasis",
+      "icewind-suite",
+      "maguu-kenki",
+      "setekh-wenut",
+      "algorithm-of-semi-intransient-matrix-of-overseer-network",
+      "wolf-of-the-north",
+      "memories-lucent-altar-of-the-everlasting",
+      "memories-storming-terror",
+      "Souvenir Shop"
+    ],
+    "rarity": 2
+  },
+  "fragment": {
+    "id": "vayuda-turquoise-fragment",
+    "name": "Vayuda Turquoise Fragment",
+    "sources": [
+      "anemo-hypostasis",
+      "icewind-suite",
+      "maguu-kenki",
+      "setekh-wenut",
+      "algorithm-of-semi-intransient-matrix-of-overseer-network",
+      "wolf-of-the-north",
+      "memories-lucent-altar-of-the-everlasting",
+      "memories-storming-terror"
+    ],
+    "rarity": 3
+  },
+  "chunk": {
+    "id": "vayuda-turquoise-chunk",
+    "name": "Vayuda Turquoise Chunk",
+    "sources": [
+      "anemo-hypostasis",
+      "icewind-suite",
+      "maguu-kenki",
+      "setekh-wenut",
+      "algorithm-of-semi-intransient-matrix-of-overseer-network",
+      "wolf-of-the-north",
+      "memories-lucent-altar-of-the-everlasting",
+      "memories-storming-terror"
+    ],
+    "rarity": 4
+  },
+  "gemstone": {
+    "id": "vayuda-turquoise-gemstone",
+    "name": "Vayuda Turquoise Gemstone",
+    "sources": [
+      "anemo-hypostasis",
+      "icewind-suite",
+      "maguu-kenki",
+      "setekh-wenut",
+      "algorithm-of-semi-intransient-matrix-of-overseer-network",
+      "wolf-of-the-north",
+      "memories-lucent-altar-of-the-everlasting",
+      "memories-storming-terror"
+    ],
+    "rarity": 5
+  }
+}

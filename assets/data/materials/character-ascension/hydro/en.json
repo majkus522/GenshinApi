@@ -1,0 +1,79 @@
+{
+  "sliver": {
+    "id": "varunada-lazurite-sliver",
+    "name": "Varunada Lazurite Sliver",
+    "sources": [
+      "oceanid",
+      "primo-geovishap",
+      "aeonblight-drake",
+      "hydro-hypostasis",
+      "hydro-tulpa",
+      "iniquitous-baptist",
+      "lupus-bereas",
+      "memories-earthshaking-dragon",
+      "memories-storming-terror",
+      "memories-lucent-altar-of-the-everlasting",
+      "memories-the-golden-shadow",
+      "memories-the-titan-amidst-the-stars",
+      "Souvenir Shop"
+    ],
+    "rarity": 2
+  },
+  "fragment": {
+    "id": "varunada-lazurite-fragment",
+    "name": "Varunada Lazurite Fragment",
+    "sources": [
+      "oceanid",
+      "primo-geovishap",
+      "aeonblight-drake",
+      "hydro-hypostasis",
+      "hydro-tulpa",
+      "iniquitous-baptist",
+      "lupus-bereas",
+      "memories-earthshaking-dragon",
+      "memories-storming-terror",
+      "memories-lucent-altar-of-the-everlasting",
+      "memories-the-golden-shadow",
+      "memories-the-titan-amidst-the-stars"
+    ],
+    "rarity": 3
+  },
+  "chunk": {
+    "id": "varunada-lazurite-chunk",
+    "name": "Varunada Lazurite Chunk",
+    "sources": [
+      "oceanid",
+      "primo-geovishap",
+      "aeonblight-drake",
+      "hydro-hypostasis",
+      "hydro-tulpa",
+      "iniquitous-baptist",
+      "lupus-bereas",
+      "memories-earthshaking-dragon",
+      "memories-storming-terror",
+      "memories-lucent-altar-of-the-everlasting",
+      "memories-the-golden-shadow",
+      "memories-the-titan-amidst-the-stars"
+    ],
+    "rarity": 4
+  },
+  "gemstone": {
+    "id": "varunada-lazurite-gemstone",
+    "name": "Varunada Lazurite Gemstone",
+    "sources": [
+      "oceanid",
+      "primo-geovishap",
+      "aeonblight-drake",
+      "hydro-hypostasis",
+      "hydro-tulpa",
+      "iniquitous-baptist",
+      "lupus-bereas",
+      "memories-earthshaking-dragon",
+      "memories-storming-terror",
+      "memories-lucent-altar-of-the-everlasting",
+      "memories-the-golden-shadow",
+      "memories-the-titan-amidst-the-stars"
+    ],
+    "rarity": 5
+  }
+}

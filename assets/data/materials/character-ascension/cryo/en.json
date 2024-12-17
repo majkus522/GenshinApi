@@ -1,0 +1,83 @@
+{
+  "sliver": {
+    "id": "shivada-jade-sliver",
+    "name": "Shivada Jade Sliver",
+    "sources": [
+      "cryo-regisvine",
+      "cryo-hypostasis",
+      "bathysmal-vishap-herd",
+      "icewind-suite",
+      "iniquitous-baptist",
+      "maguu-kenki",
+      "perpetual-mechanical-array",
+      "primo-geovishap",
+      "aeonblight-drake",
+      "wolf-of-the-north",
+      "memories-earthshaking-dragon",
+      "memories-duel-to-the-fiery-death",
+      "memories-the-golden-shadow",
+      "Souvenir Shop"
+    ],
+    "rarity": 2
+  },
+  "fragment": {
+    "id": "shivada-jade-fragment",
+    "name": "Shivada Jade Fragment",
+    "sources": [
+      "cryo-regisvine",
+      "cryo-hypostasis",
+      "bathysmal-vishap-herd",
+      "icewind-suite",
+      "iniquitous-baptist",
+      "maguu-kenki",
+      "perpetual-mechanical-array",
+      "primo-geovishap",
+      "aeonblight-drake",
+      "wolf-of-the-north",
+      "memories-earthshaking-dragon",
+      "memories-duel-to-the-fiery-death",
+      "memories-the-golden-shadow"
+    ],
+    "rarity": 3
+  },
+  "chunk": {
+    "id": "shivada-jade-chunk",
+    "name": "Shivada Jade Chunk",
+    "sources": [
+      "cryo-regisvine",
+      "cryo-hypostasis",
+      "bathysmal-vishap-herd",
+      "icewind-suite",
+      "iniquitous-baptist",
+      "maguu-kenki",
+      "perpetual-mechanical-array",
+      "primo-geovishap",
+      "aeonblight-drake",
+      "wolf-of-the-north",
+      "memories-earthshaking-dragon",
+      "memories-duel-to-the-fiery-death",
+      "memories-the-golden-shadow"
+    ],
+    "rarity": 4
+  },
+  "gemstone": {
+    "id": "shivada-jade-gemstone",
+    "name": "Shivada Jade Gemstone",
+    "sources": [
+      "cryo-regisvine",
+      "cryo-hypostasis",
+      "bathysmal-vishap-herd",
+      "icewind-suite",
+      "iniquitous-baptist",
+      "maguu-kenki",
+      "perpetual-mechanical-array",
+      "primo-geovishap",
+      "aeonblight-drake",
+      "wolf-of-the-north",
+      "memories-earthshaking-dragon",
+      "memories-duel-to-the-fiery-death",
+      "memories-the-golden-shadow"
+    ],
+    "rarity": 5
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "sliver": {
+    "id": "prithiva-topaz-sliver",
+    "name": "Prithiva Topaz Sliver",
+    "sources": [
+      "geo-hypostasis",
+      "golden-wolflord",
+      "perpetual-mechanical-array",
+      "primo-geovishap",
+      "experimental-field-generator",
+      "ruin-serpent",
+      "wolf-of-the-north",
+      "memories-earthshaking-dragon",
+      "statue-of-marble-and-brass",
+      "Souvenir Shop"
+    ],
+    "rarity": 2
+  },
+  "fragment": {
+    "id": "prithiva-topaz-fragment",
+    "name": "Prithiva Topaz Fragment",
+    "sources": [
+      "geo-hypostasis",
+      "golden-wolflord",
+      "perpetual-mechanical-array",
+      "primo-geovishap",
+      "experimental-field-generator",
+      "ruin-serpent",
+      "wolf-of-the-north",
+      "memories-earthshaking-dragon",
+      "statue-of-marble-and-brass"
+    ],
+    "rarity": 3
+  },
+  "chunk": {
+    "id": "prithiva-topaz-chunk",
+    "name": "Prithiva Topaz Chunk",
+    "sources": [
+      "geo-hypostasis",
+      "golden-wolflord",
+      "perpetual-mechanical-array",
+      "primo-geovishap",
+      "experimental-field-generator",
+      "ruin-serpent",
+      "wolf-of-the-north",
+      "memories-earthshaking-dragon",
+      "statue-of-marble-and-brass"
+    ],
+    "rarity": 4
+  },
+  "gemstone": {
+    "id": "prithiva-topaz-gemstone",
+    "name": "Prithiva Topaz Gemstone",
+    "sources": [
+      "geo-hypostasis",
+      "golden-wolflord",
+      "perpetual-mechanical-array",
+      "primo-geovishap",
+      "experimental-field-generator",
+      "ruin-serpent",
+      "wolf-of-the-north",
+      "memories-earthshaking-dragon",
+      "statue-of-marble-and-brass"
+    ],
+    "rarity": 5
+  }
+}

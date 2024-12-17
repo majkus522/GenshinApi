@@ -1,0 +1,79 @@
+{
+  "sliver": {
+    "id": "agnidus-agate-sliver",
+    "name": "Agnidus Agate Sliver",
+    "sources": [
+      "pyro-regisvine",
+      "pyro-hypostasis",
+      "algorithm-of-semi-intransient-matrix-of-overseer-network",
+      "emperor-of-fire-and-iron",
+      "iniquitous-baptist",
+      "primo-geovishap",
+      "lupus-bereas",
+      "memories-earthshaking-dragon",
+      "memories-duel-to-the-fiery-death",
+      "statue-of-marble-and-brass",
+      "the-knave",
+      "holawaqa-ngoubou",
+      "Souvenir Shop"
+    ],
+    "rarity": 2
+  },
+  "fragment": {
+    "id": "agnidus-agate-fragment",
+    "name": "Agnidus Agate Fragment",
+    "sources": [
+      "pyro-regisvine",
+      "pyro-hypostasis",
+      "algorithm-of-semi-intransient-matrix-of-overseer-network",
+      "emperor-of-fire-and-iron",
+      "iniquitous-baptist",
+      "primo-geovishap",
+      "lupus-bereas",
+      "memories-earthshaking-dragon",
+      "memories-duel-to-the-fiery-death",
+      "statue-of-marble-and-brass",
+      "the-knave",
+      "holawaqa-ngoubou"
+    ],
+    "rarity": 3
+  },
+  "chunk": {
+    "id": "agnidus-agate-chunk",
+    "name": "Agnidus Agate Chunk",
+    "sources": [
+      "pyro-regisvine",
+      "pyro-hypostasis",
+      "algorithm-of-semi-intransient-matrix-of-overseer-network",
+      "emperor-of-fire-and-iron",
+      "iniquitous-baptist",
+      "primo-geovishap",
+      "lupus-bereas",
+      "memories-earthshaking-dragon",
+      "memories-duel-to-the-fiery-death",
+      "statue-of-marble-and-brass",
+      "the-knave",
+      "holawaqa-ngoubou"
+    ],
+    "rarity": 4
+  },
+  "gemstone": {
+    "id": "agnidus-agate-gemstone",
+    "name": "Agnidus Agate Gemstone",
+    "sources": [
+      "pyro-regisvine",
+      "pyro-hypostasis",
+      "algorithm-of-semi-intransient-matrix-of-overseer-network",
+      "emperor-of-fire-and-iron",
+      "iniquitous-baptist",
+      "primo-geovishap",
+      "lupus-bereas",
+      "memories-earthshaking-dragon",
+      "memories-duel-to-the-fiery-death",
+      "statue-of-marble-and-brass",
+      "the-knave",
+      "holawaqa-ngoubou"
+    ],
+    "rarity": 5
+  }
+}

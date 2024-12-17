@@ -1,0 +1,79 @@
+{
+  "sliver": {
+    "id": "vajrada-amethyst-sliver",
+    "name": "Vajrada Amethyst Sliver",
+    "sources": [
+      "electro-hypostasis",
+      "electro-regisvine",
+      "primo-geovishap",
+      "thunder-manifestation",
+      "iniquitous-baptist",
+      "bathysmal-vishap-herd",
+      "millennial-pearl-seahorse",
+      "memories-storming-terror",
+      "memories-the-golden-shadow",
+      "memories-earthshaking-dragon",
+      "memories-lucent-altar-of-the-everlasting",
+      "memories-guardian-of-eternity",
+      "Souvenir Shop"
+    ],
+    "rarity": 2
+  },
+  "fragment": {
+    "id": "vajrada-amethyst-fragment",
+    "name": "Vajrada Amethyst Fragment",
+    "sources": [
+      "electro-hypostasis",
+      "electro-regisvine",
+      "primo-geovishap",
+      "thunder-manifestation",
+      "millennial-pearl-seahorse",
+      "iniquitous-baptist",
+      "bathysmal-vishap-herd",
+      "memories-storming-terror",
+      "memories-the-golden-shadow",
+      "memories-earthshaking-dragon",
+      "memories-lucent-altar-of-the-everlasting",
+      "memories-guardian-of-eternity"
+    ],
+    "rarity": 3
+  },
+  "chunk": {
+    "id": "vajrada-amethyst-chunk",
+    "name": "Vajrada Amethyst Chunk",
+    "sources": [
+      "electro-hypostasis",
+      "electro-regisvine",
+      "primo-geovishap",
+      "thunder-manifestation",
+      "millennial-pearl-seahorse",
+      "iniquitous-baptist",
+      "bathysmal-vishap-herd",
+      "memories-storming-terror",
+      "memories-the-golden-shadow",
+      "memories-earthshaking-dragon",
+      "memories-lucent-altar-of-the-everlasting",
+      "memories-guardian-of-eternity"
+    ],
+    "rarity": 4
+  },
+  "gemstone": {
+    "id": "vajrada-amethyst-gemstone",
+    "name": "Vajrada Amethyst Gemstone",
+    "sources": [
+      "electro-hypostasis",
+      "electro-regisvine",
+      "primo-geovishap",
+      "thunder-manifestation",
+      "millennial-pearl-seahorse",
+      "iniquitous-baptist",
+      "bathysmal-vishap-herd",
+      "memories-storming-terror",
+      "memories-the-golden-shadow",
+      "memories-earthshaking-dragon",
+      "memories-lucent-altar-of-the-everlasting",
+      "memories-guardian-of-eternity"
+    ],
+    "rarity": 5
+  }
+}
